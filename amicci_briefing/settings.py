@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure--*+u-qbzoee4%2i3d7tku39h1-#9suyjg%-k#h29$_5_h8uc0d
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['test-backend-amicci.onrender.com']
+ALLOWED_HOSTS = ['test-backend-amicci.onrender.com', 'localhost']
 
 
 # Application definition
